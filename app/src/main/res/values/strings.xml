@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MemeApp</string>
+    <string name="title">Meme App</string>
+    <string name="image1">part1</string>
+    <string name="image2">part2</string>
+    <string name="name">My Name=Gehad</string>
+    <string name="age">My Age = 19</string>
+</resources>
